@@ -1,0 +1,12 @@
+{
+# see: https://docs.google.com/presentation/d/1bn12W-C3hIEkKyB_TVW5HqTTKYBDwcwDK3CCyYn81uo/edit#slide=id.g74e410c918_0_25
+'p3'            : 0.132,
+'p4'            : 1.22,
+'p0'            : 130283.,
+'p2'            : 0.56757,
+'p1'            : 117038.,
+'norm'          : 1.2,
+'xscale'        : 1.5,
+'sliceRadius'   : 30.,
+'noiseThr'      : 2.25,
+}
